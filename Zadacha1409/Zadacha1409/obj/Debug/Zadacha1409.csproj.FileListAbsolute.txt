@@ -1,0 +1,6 @@
+c:\users\misha\documents\visual studio 2015\Projects\Zadacha1409\Zadacha1409\bin\Debug\Zadacha1409.exe.config
+c:\users\misha\documents\visual studio 2015\Projects\Zadacha1409\Zadacha1409\obj\Debug\Zadacha1409.csprojResolveAssemblyReference.cache
+c:\users\misha\documents\visual studio 2015\Projects\Zadacha1409\Zadacha1409\bin\Debug\Zadacha1409.exe
+c:\users\misha\documents\visual studio 2015\Projects\Zadacha1409\Zadacha1409\bin\Debug\Zadacha1409.pdb
+c:\users\misha\documents\visual studio 2015\Projects\Zadacha1409\Zadacha1409\obj\Debug\Zadacha1409.exe
+c:\users\misha\documents\visual studio 2015\Projects\Zadacha1409\Zadacha1409\obj\Debug\Zadacha1409.pdb
